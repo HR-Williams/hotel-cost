@@ -1,0 +1,15 @@
+/Users/hr/code/hotel_-cost/bin/Debug/net5.0/HotelCost.deps.json
+/Users/hr/code/hotel_-cost/bin/Debug/net5.0/HotelCost.runtimeconfig.json
+/Users/hr/code/hotel_-cost/bin/Debug/net5.0/HotelCost.runtimeconfig.dev.json
+/Users/hr/code/hotel_-cost/bin/Debug/net5.0/HotelCost.dll
+/Users/hr/code/hotel_-cost/bin/Debug/net5.0/ref/HotelCost.dll
+/Users/hr/code/hotel_-cost/bin/Debug/net5.0/HotelCost.pdb
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.csprojAssemblyReference.cache
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.AssemblyInfoInputs.cache
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.AssemblyInfo.cs
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.csproj.CoreCompileInputs.cache
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.dll
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/ref/HotelCost.dll
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.pdb
+/Users/hr/code/hotel_-cost/obj/Debug/net5.0/HotelCost.genruntimeconfig.cache
